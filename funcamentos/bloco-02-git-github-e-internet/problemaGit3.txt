@@ -1,0 +1,321 @@
+5 motivos para você aprender JavaScript!
+------------------------------------------
+
+O JavaScript é uma linguagem de programação muito poderosa utilizada em todo o mundo!
+
+O uso mais convencional do JavaScript é no contexto do nosso navegador, juntamente com HTML e CSS.
+
+Por que o JavaScript é tão valorizado?
+----------------------------------------
+
+O JavaScript te permite dar dinamismos às páginas. É ele quem garante que sua página tenha a habilidade de reagir às ações das pessoas usuárias.
+
+5 motivos para você aprender JavaScript
+-----------------------------------------
+
+#1 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#2 Sintaxe mais simplificada que a maioria das linguagens.
+
+#3 Constante evolução, principalmente por ter uma comunidade engajada.
+
+#4 Utilizado no back-end e no front-end.
+
+#5 Muitas opções de bibliotecas e frameworks que vão maximizar sua produtividade.
+
+#6 Linguagem poderosa e com usos diversos.
+
+#7 linguagem multiplataforma.
+
+#8 Muita demanda no mercado de trabalho.
+
+#9 Criacao de sistemas interativos para diversos propositos.
+
+#10 Crescimento profissional rápido acompanhando um mercado emergente.
+
+#11 linguagem multiplataforma.
+
+#12 Possibilidade de pagina mais dinamica.
+
+#13 Facil integração com outras linguagens
+
+#14 Linguagem versatil para desenvolvimento
+
+-----------------------------------------
+@Miguel_Santana
+
+#1 Utilizado em todas as partes de um site tanto no front-end quanto back-end.
+
+#2 evolucao rapida com atualizacoes constantes e uma comunidade engajada.
+
+#3 Comparada a outras linguagens tem uma sintaxe facil.
+
+#4 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#5 evolucao rapida com atualizacoes constantes e uma comunidade engajada.
+
+#6 Linguagem poderosa e com usos diversos.
+
+#7 Suportada por diversas plataformas.
+
+#8 diversas oportunidades no mercado de trabalho.
+
+#9 interatividade com opcoes poderosas.
+
+#10 progressao de carreira facilitada com as diversas oportunidades.
+
+#11 com suporte a varios dispositivos.
+
+#12 Construcao de sites dinamicos.
+
+#13 integracao com as linguagem mais populares
+
+#14 versatil e com diversas opcoes
+
+----------------------------------------------
+@Matheus_Barcellos
+
+#1 utilizado na criacao de sites e banco de dados
+
+#2 opcoes variadas de bibliotecas
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 esta sempre em constante atualizacao
+
+#5 Sintaxe mais simplificada que a maioria das linguagens.
+
+#6 linguagem com muitos recursos
+
+#7 linguagem disponivel em diversas plataformas
+
+#8 muitas vagas de trabalho disponiveis para quem demonia a linguagem
+
+#9 facilidade de criar varios tipos de sistemas
+
+#10 facilidade para desenvolvimento de carreira
+
+#11 suporte em varios dispositivos 
+
+#12 dinamismo nas paginas web 
+
+#13 facil acessso na juncao com outras linguagens
+
+#14 linguagem acessivel para desenvolvimento
+
+-------------------------------------------------------
+@Kamilly_dos_Santos
+
+#1 Nunca deixa de ser atualizado, pelo circulo de usuarios.
+
+#2 Diferentes arquiteturas para o trabalho de desenvolvimento. 
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 Utilizado full-stack
+
+#5 Sintaxe mais simplificada que a maioria das linguagens.
+
+6# Linguagem usada para quase tudo
+
+7# Linguagem que pode funcionar em vários dispositivos diferentes
+
+8# Amplio mercado de trabalho
+
+9# Linguagem de porte comunicativo
+
+10# Grande abertura e demanda de oportunidades no mercado de trabalho
+
+11# Executado em mais de uma plataforma
+
+12# criaçoes de sites com açoes mais praticas
+
+13# Inclusão de outras linguagens
+
+14# Lingagem de facil entedimento
+
+----------------------------------------
+@Pedro_Gomes
+
+#1 Linguagem possibilita a crianção de Front e Back end.
+
+#2 Diversas bibliotecas e Frameworks.
+
+#3 Linguagem de programação amplamente utilizada no mercado de trabalho atual.
+
+#4 Comunidade engaja na evolução da linguagem.
+
+#5 Simplificação da sintexe com a grande maioriadas linguagens.
+
+#6 Linguagem diversa e extremamente poderosa.
+
+#7 Suporte a variadas plataformas.
+
+#8 O mercado de trabalho a utiliza amplamente.
+
+#9 Criacao de sistemas interativos para diversos propositos.
+
+#10 Capacidade proficional crescente junto ao mercado.
+
+#11 Suporte amplo a varios dispositivos.
+
+#12 Criação de paginas dinamcas.
+
+#13 Outras linguagens a integram facilmente
+
+#14 Desenvolvimento versatil para usuarios.
+
+-------------------------------------------------------
+@Ives_Braga
+
+#1 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#2 Sintaxe mais simplificada que a maioria das linguagens.
+
+#3 Constante evolução, principalmente por ter uma comunidade engajada.
+
+#4 Utilizado no back-end e no front-end.
+
+#5 Muitas opções de bibliotecas e frameworks que vão maximizar sua produtividade.
+
+#6 Desenvolve inúmeros tipos de sistema dinâmicos.
+
+#7 Crescimento expoente e conjunto do mercado.
+
+#8 Linguagem abrangente com muitos usos.
+
+#9 Reflete inúmeras oportunidades de emprego..
+
+#10 Linguagem polivalente pra várias plataformas.
+
+#11 Linguagem pra muitas plataformas diferentes.
+
+#12 Pode ser usada pra páginas mais eficientes.
+
+#13 Facilidade pra interagir com outras linguagens.
+
+#14 Linguagem mutável para desenvolvimento
+
+-------------------------------------------------------
+@Airam_Toscano
+
+#1 Utilizado em todo desenvolvimento web
+
+#2 Muitas opções de atalhos
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 linguagem bastante promissora
+
+#5 Sintaxe mais simplificada que a maioria das linguagens
+
+#6 Linguagem rica em detalhes
+
+#7 Linguagem com varias aplicações
+
+#8 Bastante pedida no mercado de trabalho
+
+#9 Criação diversas aplicações.
+
+#10 um mercado precisando de mão de obra rapidamente
+
+#11 linguagem com compatibiidade 
+
+#12 possibiliade de uma pagina mais facil
+
+#13 uma linguagem universal
+
+#14 linguagem mutavel para o desenvolvimento.
+
+-------------------------------------------------------
+@Juliane_Alves
+
+#1 Utilizado em todo contexto full-stack..
+
+#2 Diversas ferramentas, que vão auxiliar no desenvolvimento.
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 Comunidade com todo suporte, onde há a possibilidade de progredir.
+
+#5 Sintaxe mais simplificada que a maioria das linguagens.
+
+#6 Linguagem com diversas funções.
+
+#7 linguagem que pode ser utilizadas em diversas plataformas.
+
+#8 Altamente utilizada no mercado.
+
+#9 Criação de sistemas dinamicos  .
+
+#10 Funcional para mercado de trabalho, tencnologia utilizada por muitas empresas.
+
+#11 linguagem que perminte transmitir em diferentes plataformas.
+
+#12 Possibilidade de pagina com mais desenvolvimento.
+
+#13 Linguagem acessivel para outros programas.
+
+#14 Linguagem flevivel.
+
+-------------------------------------------------------
+@Jorge_Dorio
+
+#1 Possibilitade de desenvolvimento de back-end e front-end.
+
+#2 Um gama enorme de bibliotecas e frameworks que vão otimizar o seu tempo.
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 Evolução diária devido ao engajamento da comunidade.
+
+#5 Sintaxe mais simplificada que a maioria das linguagens.
+
+#6 Linguagem ampla e com usos diferenciados.
+
+#7 Suporte em multiplataformas.
+
+#8 Grande enecessidade de profissionais no mercado de trabalho.
+
+#9 Ampla gama de possibilidades de sistemas dinâmicos.
+
+#10 Evolução profissional acelerada junto ao mercado em desenvolvimento.
+
+#11 Possibilidade de aplicação em varias plataformas.
+
+#12 Interatividades diversas com a página.
+
+#13 Facil integração com outras linguagens
+
+#14 Linguagem versatil para desenvolvimento
+
+-------------------------------------------------------
+@Ingrid_Louise
+
+#1 Utilizado em varios niveis da programação.
+
+#2 Muitas formas de trabalho.
+
+#3 Linguagem muito popular e adotada pelas principais empresas de tecnologia do mundo.
+
+#4 Melhorias feitas pro compartilhamento de informações.
+
+#5 Sintaxe mais simplificada que a maioria das linguagens.
+
+#6 Linguagem diversidade de usos.
+
+#7 linguagem coringa.
+
+#8 Requesito no mercado de trabalho.
+
+#9 Possibilidade de criacao de sistemas
+
+#10 Oportunidade de trabalho.
+
+#11 linguagem exetutada por muitas plataformas.
+
+#12 Possibilidade de interacao mais dinamica.
+
+#13 Compatibilidade com outras linguagens
+
+#14 Linguagem agil para desenvolvimento
